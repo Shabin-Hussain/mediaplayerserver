@@ -44,24 +44,5 @@
     }
   ],
   "category": [],
-  "history": [
-    {
-      "caption": "Bentley",
-      "url": "https://www.youtube.com/embed/811a9WYfOD4",
-      "timeStamp": "25/09/2026, 22:46:46",
-      "id": 1
-    },
-    {
-      "caption": "illuminati",
-      "url": "https://www.youtube.com/embed/NlL0_eyZeMs",
-      "timeStamp": "25/09/2026, 22:50:05",
-      "id": 2
-    },
-    {
-      "caption": "mclaren",
-      "url": "https://www.youtube.com/embed/tk5B4GSbgD4",
-      "timeStamp": "25/09/2026, 22:50:10",
-      "id": 3
-    }
-  ]
+  "history": []
 }
